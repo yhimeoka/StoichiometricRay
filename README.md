@@ -1,9 +1,9 @@
 # StoichiometricRay
-SI Codes for "A theoretical basis for cell deaths"
-https://www.biorxiv.org/content/10.1101/2024.03.04.583348v2
+SI Codes for "Theoretical basis for cell deaths"
+https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.043217
 
 ## Brusselator
-The codes for computing the stoichiometric ray of the reversible Brusselator (Fig.2).
+The codes for computing the stoichiometric ray of the reversible Brusselator (Fig.4).
 
 `main_module.py` contains the main modules used to compute the Rays. 
 
@@ -12,7 +12,7 @@ The codes for computing the stoichiometric ray of the reversible Brusselator (Fi
 You do not need to see `main_module.py` unless you want to check what is happening behind.  
 
 ## Metabolic
-The codes for computing the dynamics, Stoichiometric Rays, and the transition diagram of the metabolic model (Fig.3~5).
+The codes for computing the dynamics, Stoichiometric Rays, and the transition diagram of the metabolic model (Figs.5~7).
 
 The folder has a similar structure to that of the Brusselator model. 
 
