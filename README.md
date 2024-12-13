@@ -20,7 +20,7 @@ The folder has a similar structure to that of the Brusselator model.
 
 To generate the data files for the figures, first run `model.ipynb` which computes the model dynamics from several initial conditions and exports the information of the live and dead attractor.
 
-Next, run `Ray.ipynb` which computes the stoichiometric rays of the active attractor, equivalently, the understimated dead set (Fig.3A). 
+Next, run `Ray.ipynb` which computes the stoichiometric rays of the active attractor, equivalently, the understimated dead set (Fig.5A). 
 
 `plot.ipynb` visualizes the obtained non-returnable set using `plotly` package.
 
